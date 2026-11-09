@@ -29,3 +29,8 @@ Change before first run:  `ADMIN_USER=myadmin ADMIN_PASS=StrongPass1 node server
 - `server.js` - API + static server
 - `public/` - index.html, style.css, app.js
 - `data/db.json` - created automatically
+
+##admin Id & Password
+On the Login tab (the default), enter:
+Username: admin
+Password: admin123
