@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": "b2bba6a1-ca4a-462f-87c8-6a194e853fe2",
+      "role": "admin",
+      "username": "admin",
+      "name": "System Admin",
+      "phone": "",
+      "department": "",
+      "salt": "96ccfff27b4b7032c2e3e449235519c0",
+      "hash": "8baa29d314b43e7ae7315105fe8340cf67af1f8a92377330f7ee178e302276f3f927cd8f0d2c8cbeb8069f962c798fea736115457d17468ea9312d8f1a6d3b53",
+      "createdAt": "2026-11-09T14:51:11.526Z"
+    },
+    {
+      "id": "8ded0502-caef-4c12-8957-5d5e2a6bda56",
+      "role": "patient",
+      "username": "hridoy",
+      "name": "hridoynecit",
+      "phone": "019455454454",
+      "department": "",
+      "salt": "115d8f11977af2fe20d0e3b0319e1922",
+      "hash": "960bec27621834c4601729229a63b1f018cde5ba39e252310bc7b777e8b2be4882c8c1c79251ec3c91a7332682b59bee72086b53c2c0cf8778c3dac5a73bdcdc",
+      "createdAt": "2026-11-09T15:01:10.216Z"
+    }
+  ],
+  "patients": [
+    {
+      "id": "86add4a5-3218-4988-9835-b729f1ef0a2f",
+      "userId": "8ded0502-caef-4c12-8957-5d5e2a6bda56",
+      "name": "hridoynecit",
+      "age": 25,
+      "gender": "Male",
+      "phone": "019455454454",
+      "address": "555/55s",
+      "bloodGroup": "B+",
+      "problem": "Heart problem",
+      "createdAt": "2026-11-09T15:01:10.216Z",
+      "updatedAt": "2026-11-09T15:01:10.216Z"
+    }
+  ]
+}
