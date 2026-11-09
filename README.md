@@ -34,3 +34,10 @@ Change before first run:  `ADMIN_USER=myadmin ADMIN_PASS=StrongPass1 node server
 On the Login tab (the default), enter:
 Username: admin
 Password: admin123
+
+<img width="1918" height="927" alt="image" src="https://github.com/user-attachments/assets/c45d70e9-9f4f-4bb1-9fa2-7221804efc85" />
+<img width="1897" height="929" alt="image" src="https://github.com/user-attachments/assets/ee0d7e29-7872-45df-b2f1-abb37f33099c" />
+<img width="1919" height="929" alt="image" src="https://github.com/user-attachments/assets/a7b90d7d-80bd-4742-bad6-7fd01e3d08c5" />
+
+
+
